@@ -1,8 +1,8 @@
 import os
 import sys
 
-os.system("git clone --depth=1 https://github.com/adi1090x/termux-desktop.git")
 os.system("cd")
+os.system("git clone --depth=1 https://github.com/adi1090x/termux-desktop.git")
 os.system("cd termux-desktop")
 os.system("chmod +x setup.sh")
 os.system("clear")
