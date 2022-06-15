@@ -3,9 +3,7 @@
 
 To start easy-installation first
 ```bash
-  chmod +X gereksinimler.sh
-
-  ./gereksinimler.sh
+  sh gereksinimler.sh
 ```
 
 then after this part just start python file 
