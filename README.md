@@ -3,6 +3,7 @@
 
 To start easy-installation first
 ```bash
+  pkg install git
   git clone https://github.com/NomadDesignGraphics/quick_desktop_termux.git
   cd quick_desktop_termux
   sh gereksinimler.sh
